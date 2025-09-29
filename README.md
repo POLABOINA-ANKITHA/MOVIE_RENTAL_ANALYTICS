@@ -91,4 +91,4 @@ Language Insights: Multilingual analysis helps target diverse audience groups.
 
 
 
-8.SCREENSHOT OF DASHBOARD:
+8.SCREENSHOT OF DASHBOARD:https://github.com/POLABOINA-ANKITHA/MOVIE_RENTAL_ANALYTICS/blob/main/MOVIE_RENTAL_SNAP.PNG
